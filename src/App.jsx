@@ -1,11 +1,12 @@
 import './App.css'
+import HomePage from './view/HomePage'
 
 function App() {
 
   return (
-    <div className="App">
-      <h1>BLACKPINK IN YOUR AREA</h1>
-    </div>
+    <>
+      <HomePage />
+    </>
   )
 }
 

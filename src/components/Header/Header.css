@@ -1,0 +1,11 @@
+.Header {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: flex-start;
+  padding: 1rem;
+}
+
+.Logo {
+  width: 80%;
+}
