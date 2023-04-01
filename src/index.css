@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "primetime";
+  src: url(./fonts/primetime.ttf);
+}
+
+
+html,
+body {
+  padding: 0%;
+  margin: 0%;
+  background-color: #0E0D0D;
+}
+
+h1 {
+  font-family: "primetime", "Courier";
+  color: #EDA9BB;
+  text-align: center;
+}
